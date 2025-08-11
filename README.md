@@ -1,5 +1,3 @@
-markdown
-Copy code
 # ML-MovieRevenuePredictor
 
 A machine learning project to **predict movie revenue** using pre-release data from **The Movie Database (TMDB)**.  
@@ -16,7 +14,7 @@ Designed for filmmakers, investors, and data enthusiasts to make data-driven dec
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 ML-MovieRevenuePredictor/
 │
 ├── app.py # App for predictions
